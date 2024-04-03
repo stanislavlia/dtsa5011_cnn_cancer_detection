@@ -1,0 +1,11 @@
+*.csv
+*.jpg
+*.jpeg
+*.tif
+train
+test
+*.h5
+*.keras
+splits
+*.png
+pycache
